@@ -1,0 +1,1 @@
+choco install python3 --version=3.10.8 -y
