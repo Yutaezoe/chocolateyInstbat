@@ -1,0 +1,1 @@
+@powershell -NoProfile -ExecutionPolicy unrestricted -Command "Start-Process PowerShell.exe -Verb runas %~dp0plantumlInst.ps1"
